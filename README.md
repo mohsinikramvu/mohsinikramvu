@@ -41,7 +41,7 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/71133614?v=4" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/71133614?v=4" align="center" style="width: 100%; max-width: 300px;" />
 </div>  
 
 
