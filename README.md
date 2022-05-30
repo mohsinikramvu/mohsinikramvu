@@ -17,15 +17,15 @@
 
 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mohsinikramvu&&style=flat-square)  
-
 ### Glad to see you here!  
 I am a full-stack developer, who specialized in large-scale distributed SAS applications. Being a full-stack allows me to develop client-facing apps using modern standards and also it provides me the opportunity to work on cutting-edge backend technologies.  
   
-
 <br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=mohsinikramvu&&style=flat-square)  
 
+
+<br/>  
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
