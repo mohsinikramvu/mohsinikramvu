@@ -95,11 +95,3 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mohsinikramvu&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
