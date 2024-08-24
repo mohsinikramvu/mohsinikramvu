@@ -29,7 +29,7 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working In  [BrandJaws](https://brandjaws.com/) as full-stack developer.  
+- 🔭 I’m currently working In  [Technology Brainz] as full-stack developer.  
   
 
 - 🌱 I’m currently learning DevOps   
